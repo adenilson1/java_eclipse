@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Product01;
 
-public class Progran03 {
+public class Program03 {
 
 	public static void main(String[] args) {
 		// Programa para leitura de um numero inteiro N
